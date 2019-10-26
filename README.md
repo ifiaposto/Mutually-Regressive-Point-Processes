@@ -6,4 +6,4 @@ Example implementation of the Point Process model introduced in "Mutually Regres
 
 ### Funding
 
-<img src="https://github.com/ifiaposto/Mutually-Regressive-Point-Processes/blob/master/logos/DARPA_Logo.jpg" alt="drawing" width="100"/> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ifiaposto/Mutually-Regressive-Point-Processes/blob/master/logos/onassis_logo.png" alt="drawing" width="100"/> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ifiaposto/Mutually-Regressive-Point-Processes/blob/master/logos/leventis_logo.jpg" alt="drawing" width="100"/>
+<img src="https://github.com/ifiaposto/Mutually-Regressive-Point-Processes/blob/master/logos/DARPA_Logo.jpg" alt="drawing" width="200" height="120"/> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ifiaposto/Mutually-Regressive-Point-Processes/blob/master/logos/onassis_logo.png" alt="drawing" width="200" height="120"/> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ifiaposto/Mutually-Regressive-Point-Processes/blob/master/logos/leventis_logo.jpg" alt="drawing" width="100"/>
