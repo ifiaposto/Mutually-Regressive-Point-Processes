@@ -1,0 +1,20 @@
+runs 1
+nof burnin iters 0
+max num iter 10000
+samples step 1000
+mcmc save perior 12000
+adaptive metropolis hastings regularization parameter for the decaying coefficient in the trigerred intensity 10
+adaptive metropolis hastings initial period for the decaying coefficient in the trigerred intensity 3000
+adaptive metropolis hastings variance for the decaying coefficient in the trigerred intensity 0.1
+adaptive metropolis hastings regularization parameter for the multiplicative coefficient in the trigerred intensity 10
+adaptive metropolis hastings initial period for the multiplicative coefficient in the trigerred intensity 10000
+adaptive metropolis hastings variance for the multiplicative coefficient in the trigerred intensity 0.01
+adaptive metropolis hastings regularization parameter for the multiplicative coefficient in the history kernel function 10
+adaptive metropolis hastings initial period for the multiplicative coefficient in the history kernel function 1000
+adaptive metropolis hastings variance for the multiplicative coefficient in the history kernel function 0.1
+adaptive metropolis hastings regularization parameter for the decaying coefficient in the history kernel function 10
+adaptive metropolis hastings initial period for the decaying coefficient in the history kernel function 1000
+adaptive metropolis hastings variance for the decaying coefficient in the history kernel function 0.01
+adaptive metropolis hastings regularization parameter for the precision of the interaction weights in the logistic kernel 10
+adaptive metropolis hastings initial period for the precision of the interaction weights in the logistic kernel 3000
+adaptive metropolis hastings variance for the precision of the interaction weights in the logistic kernel 0.1

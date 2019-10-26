@@ -1,0 +1,567 @@
+Excitation Part 
+Number of event types: 2
+Observation  window begin: 0
+Observation  window end: 20000
+Background Intensity.
+Parameters from type  0.
+prior of constant
+gamma distribution
+alpha 7
+beta 1000
+c: 0.00462447
+Posterior Mean Parameters from type  0.
+Background Intensity.
+prior of constant
+gamma distribution
+alpha 7
+beta 1000
+c: 0.0057487
+Posterior Mode Parameters from type  0.
+Background Intensity.
+prior of constant
+gamma distribution
+alpha 7
+beta 1000
+c: 0.00563347
+Parameters from type  1.
+prior of constant
+gamma distribution
+alpha 7
+beta 1000
+c: 0.00877527
+Posterior Mean Parameters from type  1.
+Background Intensity.
+prior of constant
+gamma distribution
+alpha 7
+beta 1000
+c: 0.00965297
+Posterior Mode Parameters from type  1.
+Background Intensity.
+prior of constant
+gamma distribution
+alpha 7
+beta 1000
+c: 0.00925012
+Trigerring Kernels.
+Parameters from type  0.
+Kernel parameters to type 0
+exponential kernel
+prior for the multiplicative coefficient
+exponential distribution
+lambda 100
+value for the multiplicative coefficient 0.0161518
+prior for the decaying coefficient
+exponential distribution
+lambda 10
+value for the decaying coefficient 0.176218
+Posterior Mode Kernel parameters to type 0
+exponential kernel
+prior for the multiplicative coefficient
+exponential distribution
+lambda 100
+value for the multiplicative coefficient 0.0171216
+prior for the decaying coefficient
+exponential distribution
+lambda 10
+value for the decaying coefficient 0.134248
+Posterior Mean Kernel parameters to type 0
+exponential kernel
+prior for the multiplicative coefficient
+exponential distribution
+lambda 100
+value for the multiplicative coefficient 0.0218838
+prior for the decaying coefficient
+exponential distribution
+lambda 10
+value for the decaying coefficient 0.181123
+Kernel parameters to type 1
+exponential kernel
+prior for the multiplicative coefficient
+exponential distribution
+lambda 100
+value for the multiplicative coefficient 0.00429799
+prior for the decaying coefficient
+exponential distribution
+lambda 10
+value for the decaying coefficient 0.153667
+Posterior Mode Kernel parameters to type 1
+exponential kernel
+prior for the multiplicative coefficient
+exponential distribution
+lambda 100
+value for the multiplicative coefficient 0.00513564
+prior for the decaying coefficient
+exponential distribution
+lambda 10
+value for the decaying coefficient 0.0179521
+Posterior Mean Kernel parameters to type 1
+exponential kernel
+prior for the multiplicative coefficient
+exponential distribution
+lambda 100
+value for the multiplicative coefficient 0.00500831
+prior for the decaying coefficient
+exponential distribution
+lambda 10
+value for the decaying coefficient 0.0747166
+Parameters from type  1.
+Kernel parameters to type 0
+exponential kernel
+prior for the multiplicative coefficient
+exponential distribution
+lambda 100
+value for the multiplicative coefficient 0.00219549
+prior for the decaying coefficient
+exponential distribution
+lambda 10
+value for the decaying coefficient 0.137021
+Posterior Mode Kernel parameters to type 0
+exponential kernel
+prior for the multiplicative coefficient
+exponential distribution
+lambda 100
+value for the multiplicative coefficient 0.00129234
+prior for the decaying coefficient
+exponential distribution
+lambda 10
+value for the decaying coefficient 0.0455613
+Posterior Mean Kernel parameters to type 0
+exponential kernel
+prior for the multiplicative coefficient
+exponential distribution
+lambda 100
+value for the multiplicative coefficient 0.00666493
+prior for the decaying coefficient
+exponential distribution
+lambda 10
+value for the decaying coefficient 0.1198
+Kernel parameters to type 1
+exponential kernel
+prior for the multiplicative coefficient
+exponential distribution
+lambda 100
+value for the multiplicative coefficient 0.0156816
+prior for the decaying coefficient
+exponential distribution
+lambda 10
+value for the decaying coefficient 0.0493811
+Posterior Mode Kernel parameters to type 1
+exponential kernel
+prior for the multiplicative coefficient
+exponential distribution
+lambda 100
+value for the multiplicative coefficient 0.0163683
+prior for the decaying coefficient
+exponential distribution
+lambda 10
+value for the decaying coefficient 0.0533326
+Posterior Mean Kernel parameters to type 1
+exponential kernel
+prior for the multiplicative coefficient
+exponential distribution
+lambda 100
+value for the multiplicative coefficient 0.0186216
+prior for the decaying coefficient
+exponential distribution
+lambda 10
+value for the decaying coefficient 0.0581733
+Thinning Part 
+effect on type 0
+dimension of kernel functions 2
+normal priors 
+mean :10
+standard deviation 1
+precision 1
+hyperparameters for normal prior
+mean :-0.00265408
+standard deviation 0.0323842
+precision 953.527
+hyperparameters for normal prior
+normal gamma distribution
+mu -0.00099999
+kappa 100
+alpha 1010
+beta 1
+mean :-100.012
+standard deviation 0.266778
+precision 14.0508
+hyperparameters for normal prior
+normal gamma distribution
+mu -100
+kappa 100
+alpha 10
+beta 1
+weight values
+10.1924
+-0.0207769
+-100.017
+basis kernel functions
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 9.9485
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0311821
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 9.9485
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0311821
+posterior mode parameters
+dimension of kernel functions 2
+normal priors 
+mean :10
+standard deviation 1
+precision 1
+hyperparameters for normal prior
+mean :-0.00265408
+standard deviation 0.0323842
+precision 953.527
+hyperparameters for normal prior
+normal gamma distribution
+mu -0.00099999
+kappa 100
+alpha 1010
+beta 1
+mean :-100.012
+standard deviation 0.266778
+precision 14.0508
+hyperparameters for normal prior
+normal gamma distribution
+mu -100
+kappa 100
+alpha 10
+beta 1
+weight values
+10.1479
+-0.00520601
+-100.109
+basis kernel functions
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 10.2583
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0319466
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 10.2583
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0319466
+posterior mean parameters
+dimension of kernel functions 2
+normal priors 
+mean :10
+standard deviation 1
+precision 1
+hyperparameters for normal prior
+mean :-0.00265408
+standard deviation 0.0323842
+precision 953.527
+hyperparameters for normal prior
+normal gamma distribution
+mu -0.00099999
+kappa 100
+alpha 1010
+beta 1
+mean :-100.012
+standard deviation 0.266778
+precision 14.0508
+hyperparameters for normal prior
+normal gamma distribution
+mu -100
+kappa 100
+alpha 10
+beta 1
+weight values
+10.4611
+0.00302962
+-99.6747
+basis kernel functions
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 10.5143
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0328301
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 10.5143
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0328301
+effect on type 1
+dimension of kernel functions 2
+normal priors 
+mean :10
+standard deviation 1
+precision 1
+hyperparameters for normal prior
+mean :-100.017
+standard deviation 0.375722
+precision 7.0838
+hyperparameters for normal prior
+normal gamma distribution
+mu -100
+kappa 100
+alpha 10
+beta 1
+mean :-0.000428064
+standard deviation 0.0317623
+precision 991.237
+hyperparameters for normal prior
+normal gamma distribution
+mu -0.00099999
+kappa 100
+alpha 1010
+beta 1
+weight values
+9.19378
+-99.9366
+0.0317781
+basis kernel functions
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 9.9485
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0311821
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 9.9485
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0311821
+posterior mode parameters
+dimension of kernel functions 2
+normal priors 
+mean :10
+standard deviation 1
+precision 1
+hyperparameters for normal prior
+mean :-100.017
+standard deviation 0.375722
+precision 7.0838
+hyperparameters for normal prior
+normal gamma distribution
+mu -100
+kappa 100
+alpha 10
+beta 1
+mean :-0.000428064
+standard deviation 0.0317623
+precision 991.237
+hyperparameters for normal prior
+normal gamma distribution
+mu -0.00099999
+kappa 100
+alpha 1010
+beta 1
+weight values
+5.07072
+-99.9837
+-0.0109016
+basis kernel functions
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 10.2583
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0319466
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 10.2583
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0319466
+posterior mean parameters
+dimension of kernel functions 2
+normal priors 
+mean :10
+standard deviation 1
+precision 1
+hyperparameters for normal prior
+mean :-100.017
+standard deviation 0.375722
+precision 7.0838
+hyperparameters for normal prior
+normal gamma distribution
+mu -100
+kappa 100
+alpha 10
+beta 1
+mean :-0.000428064
+standard deviation 0.0317623
+precision 991.237
+hyperparameters for normal prior
+normal gamma distribution
+mu -0.00099999
+kappa 100
+alpha 1010
+beta 1
+weight values
+17.438
+-99.0017
+0.111
+basis kernel functions
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 10.5143
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0328301
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 10.5143
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0328301
+hyperparameters of the logistic kernels
+sparse normal gamma distribution
+lambda 100
+alpha 0.00134957
+alpha_tau 10
+beta_tau 1
+nu_tau 1000
+alpha_mu 0.01
+nu_mu 1000
+activation function for the mean
+general sigmoid
+a/(1+exp(-d0*(x-x0)))+bd0 100000
+x0 0.015
+activation function for the precision
+general sigmoid
+a/(1+exp(-d0*(x-x0)))+bd0 100000
+x0 0.015
+sparse normal gamma distribution
+lambda 100
+alpha 0.00134957
+alpha_tau 10
+beta_tau 1
+nu_tau 1000
+alpha_mu 0.01
+nu_mu 1000
+activation function for the mean
+general sigmoid
+a/(1+exp(-d0*(x-x0)))+bd0 100000
+x0 0.015
+activation function for the precision
+general sigmoid
+a/(1+exp(-d0*(x-x0)))+bd0 100000
+x0 0.015
+sparse normal gamma distribution
+lambda 100
+alpha 0.00113056
+alpha_tau 10
+beta_tau 1
+nu_tau 1000
+alpha_mu 0.01
+nu_mu 1000
+activation function for the mean
+general sigmoid
+a/(1+exp(-d0*(x-x0)))+bd0 100000
+x0 0.015
+activation function for the precision
+general sigmoid
+a/(1+exp(-d0*(x-x0)))+bd0 100000
+x0 0.015
+sparse normal gamma distribution
+lambda 100
+alpha 0.00113056
+alpha_tau 10
+beta_tau 1
+nu_tau 1000
+alpha_mu 0.01
+nu_mu 1000
+activation function for the mean
+general sigmoid
+a/(1+exp(-d0*(x-x0)))+bd0 100000
+x0 0.015
+activation function for the precision
+general sigmoid
+a/(1+exp(-d0*(x-x0)))+bd0 100000
+x0 0.015
+history kernel functions
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 9.9485
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0311821
+posterior mode parameters
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 10.2583
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0319466
+posterior mean parameters
+exponential kernel
+prior for the multiplicative coefficient
+gamma distribution
+alpha 100
+beta 10
+value for the multiplicative coefficient 10.5143
+prior for the decaying coefficient
+exponential distribution
+lambda 5
+value for the decaying coefficient 0.0328301
